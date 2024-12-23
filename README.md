@@ -24,3 +24,15 @@ Our vision is to empower farmers with guaranteed market access and income stabil
 
 - **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0xB1C01bbeF82661bBEF14ABD6A92aEAb35D2Ca370)
 - **Coin Used**: GAS
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-24 at 3 22 57 AM" src="https://github.com/user-attachments/assets/5662c996-1247-4b80-9167-9745b5baf380" />
+<img width="1440" alt="Screenshot 2024-12-24 at 3 18 45 AM" src="https://github.com/user-attachments/assets/2ac35ee8-a549-41ab-99a7-ccb9e6c7ba29" />
+<img width="1423" alt="Screenshot 2024-12-24 at 3 19 04 AM" src="https://github.com/user-attachments/assets/22a0ff2d-1828-4b0b-a0d1-662c2fba38ee" />
+<img width="1246" alt="Screenshot 2024-12-24 at 3 19 18 AM" src="https://github.com/user-attachments/assets/fb21365c-a8dd-43ca-80ce-b4f07ee2170c" />
+
+
+
+
+
+
