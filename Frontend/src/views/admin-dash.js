@@ -20,7 +20,7 @@ const AdminDash = () => {
         try {
           const provider = new ethers.providers.Web3Provider(window.ethereum);
           const signer = provider.getSigner();
-          const contractAddress = '0xB1C01bbeF82661bBEF14ABD6A92aEAb35D2Ca370'; // Update to your actual contract address
+          const contractAddress = '0x6471EACC40D24bC9F4BAB843560eDFEa190730c5'; // Update to your actual contract address
           const contractABI = abi.abi;
           const contract = new ethers.Contract(contractAddress, contractABI, signer);
           const accounts = await provider.send('eth_requestAccounts', []);
